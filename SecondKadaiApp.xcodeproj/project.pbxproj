@@ -13,6 +13,7 @@
 		F8BF29952A8B4428001F77D8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F8BF29932A8B4428001F77D8 /* Main.storyboard */; };
 		F8BF29972A8B4429001F77D8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8BF29962A8B4429001F77D8 /* Assets.xcassets */; };
 		F8BF299A2A8B4429001F77D8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F8BF29982A8B4429001F77D8 /* LaunchScreen.storyboard */; };
+		F8BF29A22A8B4F82001F77D8 /* NameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8BF29A12A8B4F82001F77D8 /* NameViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F8BF29962A8B4429001F77D8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F8BF29992A8B4429001F77D8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F8BF299B2A8B4429001F77D8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F8BF29A12A8B4F82001F77D8 /* NameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NameViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				F8BF298D2A8B4428001F77D8 /* AppDelegate.swift */,
 				F8BF298F2A8B4428001F77D8 /* SceneDelegate.swift */,
 				F8BF29912A8B4428001F77D8 /* ViewController.swift */,
+				F8BF29A12A8B4F82001F77D8 /* NameViewController.swift */,
 				F8BF29932A8B4428001F77D8 /* Main.storyboard */,
 				F8BF29962A8B4429001F77D8 /* Assets.xcassets */,
 				F8BF29982A8B4429001F77D8 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				F8BF29922A8B4428001F77D8 /* ViewController.swift in Sources */,
 				F8BF298E2A8B4428001F77D8 /* AppDelegate.swift in Sources */,
 				F8BF29902A8B4428001F77D8 /* SceneDelegate.swift in Sources */,
+				F8BF29A22A8B4F82001F77D8 /* NameViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -287,6 +291,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = SecondKadaiApp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -314,6 +319,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = SecondKadaiApp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
